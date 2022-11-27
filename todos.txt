@@ -6,3 +6,6 @@ complete
 have
 greet
 hug anya
+do home tasks
+cook
+read
