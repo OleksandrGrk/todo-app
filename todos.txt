@@ -1,5 +1,4 @@
-teach
-Not buy the camera
+Read
 todo 
 bit
 complete
@@ -9,3 +8,5 @@ hug anya
 do home tasks
 cook
 read
+last todo
+Say hi
