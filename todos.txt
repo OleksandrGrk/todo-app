@@ -2,4 +2,3 @@ Read
 bit
 do home tasks
 cook
-last todo
