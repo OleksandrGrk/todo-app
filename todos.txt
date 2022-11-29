@@ -1,12 +1,5 @@
 Read
-todo 
 bit
-complete
-have
-greet
-hug anya
 do home tasks
 cook
-read
 last todo
-Say hi
